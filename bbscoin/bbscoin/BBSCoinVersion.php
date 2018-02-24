@@ -15,7 +15,7 @@
 ***********************************************************************************/
 
 $bbscoinVersion['develVersion'] = false; // Is this version a testing/development version?
-$bbscoinVersion['version'] = "1.0.1";
-$bbscoinVersion['build'] = "2";
-$bbscoinVersion['date'] = "2018-2-18";
+$bbscoinVersion['version'] = "1.1";
+$bbscoinVersion['build'] = "3";
+$bbscoinVersion['date'] = "2018-2-24";
 ?>

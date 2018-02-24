@@ -58,7 +58,9 @@ $txt['bbscoin_setting_bbscoinPayRatio'] = "BBSCoin to Credits Exchange Rate: ";
 $txt['bbscoin_setting_bbscoinPayToCoinRatio'] = "Credits To BBSCoin Exchange Rate: ";
 $txt['bbscoin_setting_bbscoinPayToBbscoin'] = "Enable Withdrawal BBSCoin";
 $txt['bbscoin_setting_bbscoinWalletAddress'] = "Site BBSCoin Wallet: ";
-$txt['bbscoin_setting_bbscoinWalletd'] = "Walletd Service URL: ";
+$txt['bbscoin_setting_bbscoinWalletd'] = "Walletd or Online Service URL: ";
 $txt['bbscoin_setting_bbscoinConfirmedBlocks'] = "Transfer Required Confirmed Blocks: ";
+$txt['bbscoin_setting_bbscoinSiteId'] = "BBSCoin Online Wallet Site Id: (Walletd do not need to be filled in)";
+$txt['bbscoin_setting_bbscoinSiteKey'] = "BBSCoin Online Wallet Site Key: (Walletd do not need to be filled in)";
 
 ?>

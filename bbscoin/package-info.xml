@@ -10,7 +10,7 @@
 <package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
     <id>bbscoin:BBSCoin</id>
     <name>BBSCoin</name>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <type>modification</type>
 
     <install for="2.0 - 2.0.99,2.0 RC2, 2.0 RC3, 2.0 RC4, 2.0 RC5">

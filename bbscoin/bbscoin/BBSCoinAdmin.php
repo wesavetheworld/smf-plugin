@@ -47,6 +47,8 @@ function BBSCoinGeneral()
 			'bbscoinWalletAddress' => (string)$_POST['bbscoinWalletAddress'],
 			'bbscoinWalletd' => (string)$_POST['bbscoinWalletd'],
 			'bbscoinConfirmedBlocks' => (string)$_POST['bbscoinConfirmedBlocks'],
+			'bbscoinSiteId' => (string)$_POST['bbscoinSiteId'],
+			'bbscoinSiteKey' => (string)$_POST['bbscoinSiteKey'],
 			);
 
 		// Save all these settings

@@ -19,15 +19,17 @@ global $smcFunc, $db_prefix;
 
 // New settings for the bbscoin mod
 $newSettings = array(
-	'bbscoinVersion' => '1.0',
-	'bbscoinDate' => '2018-2-13',
-	'bbscoinBuild' => '1',
+	'bbscoinVersion' => '1.1',
+	'bbscoinDate' => '2018-2-24',
+	'bbscoinBuild' => '3',
 	'bbscoinPayRatio' => '0.1',
 	'bbscoinPayToCoinRatio' => '10',
 	'bbscoinPayToBbscoin' => '1',
 	'bbscoinWalletAddress' => '',
 	'bbscoinWalletd' => 'http://127.0.0.1:8070/json_rpc',
 	'bbscoinConfirmedBlocks' => '3',
+	'bbscoinSiteId' => '',
+	'bbscoinSiteKey' => '',
 	);
 
 // Insert them into the database

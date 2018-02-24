@@ -74,6 +74,14 @@ function template_main()
 													<td align="right"><label for="interest">', $txt['bbscoin_setting_bbscoinConfirmedBlocks'], ':</label></td>
 													<td><input type="text" name="bbscoinConfirmedBlocks" id="bbscoinConfirmedBlocks" value="', $modSettings['bbscoinConfirmedBlocks'], '" size="55" /></td>
 												</tr>
+												<tr>
+													<td align="right"><label for="interest">', $txt['bbscoin_setting_bbscoinSiteId'], ':</label></td>
+													<td><input type="text" name="bbscoinSiteId" id="bbscoinSiteId" value="', $modSettings['bbscoinSiteId'], '" size="55" /></td>
+												</tr>
+												<tr>
+													<td align="right"><label for="interest">', $txt['bbscoin_setting_bbscoinSiteKey'], ':</label></td>
+													<td><input type="text" name="bbscoinSiteKey" id="bbscoinSiteKey" value="', $modSettings['bbscoinSiteKey'], '" size="55" /></td>
+												</tr>
 											</table>
                                             <br />
 											<input type="submit" value="', $txt['bbscoin_save_changes'], '" /><br />
